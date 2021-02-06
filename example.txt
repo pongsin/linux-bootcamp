@@ -6,3 +6,5 @@ earlier commit. Instead of having to rewrite his entire project, he was
 able to just restart the buggy feature.
 
 He finished his assignment on time and got a 100!
+
+Happy Ending.
